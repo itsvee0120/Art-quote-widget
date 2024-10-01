@@ -15,7 +15,7 @@ To embed this quote widget into a Notion page, follow these steps:
 1. Copy the link to your hosted widget:.
 
 ```
-https://itsvee0120.github.io/Notion-widget/
+https://itsvee0120.github.io/Art-quote-widget/
 ```
 
 2. Open your Notion page where you want to embed the widget.
