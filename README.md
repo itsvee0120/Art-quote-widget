@@ -13,7 +13,7 @@ To embed this quote widget into a Notion page, follow these steps:
 1. Copy the link to your hosted widget:.
 
 ```
-YOUR_WIDGET_LINK
+https://itsvee0120.github.io/Notion-widget/
 ```
 
 2. Open your Notion page where you want to embed the widget.
