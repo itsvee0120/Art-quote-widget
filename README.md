@@ -1,6 +1,3 @@
-Here's the corrected `README.md` with instructions on how to embed the quote widget into Notion:
-
----
 
 # Art Quote of the Day
 
