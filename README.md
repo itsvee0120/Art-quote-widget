@@ -3,6 +3,10 @@
 
 A simple webpage that displays a rotating collection of art and photography quotes. The background color of the quote box alternates with each new quote, and quotes fade in and out smoothly every 9 seconds.
 
+***Demo**
+![{35B5C8BC-56C9-4C24-AC04-4BAD4D948FB8}](https://github.com/user-attachments/assets/6ece7a53-ebad-4a1c-8033-1b0fde57828d)
+
+
 ## How To Embed Into Notion as a Widget
 
 To embed this quote widget into a Notion page, follow these steps:
